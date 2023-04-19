@@ -10,7 +10,7 @@ public class FabricaDeCarros {
         int porcentagemDistribuidor = scan.nextInt();
         int percentualImpostos = scan.nextInt();
 
-        // TODO: Implemente uma condição que calcule a porcentagem do distribuidor e dos impostos:
+        // Calcula a porcentagem do distribuidor e dos impostos:
         int distribuidor = (custoFabrica * porcentagemDistribuidor) / 100;
         int valorImpostos = (custoFabrica * percentualImpostos) / 100;
         int custoConsumidor = (custoFabrica + distribuidor + valorImpostos);

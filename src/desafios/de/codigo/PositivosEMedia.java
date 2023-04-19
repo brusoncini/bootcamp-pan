@@ -10,9 +10,11 @@ public class PositivosEMedia {
         int cont = 0;
         double valoresPositivos = 0;
 
+        // Calcula quantos valores são positivos
         for (int i = 0; i < 6; i++) {
             double x = leitor.nextDouble();
 
+            // Calcula a média dos valores positivos
             if (x > 0) {
                 valoresPositivos += x;
                 cont++;
