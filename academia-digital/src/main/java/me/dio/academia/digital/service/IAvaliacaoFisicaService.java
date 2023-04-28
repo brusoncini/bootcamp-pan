@@ -1,6 +1,7 @@
 package me.dio.academia.digital.service;
 
 import me.dio.academia.digital.entity.AvaliacaoFisica;
+import me.dio.academia.digital.entity.Matricula;
 import me.dio.academia.digital.entity.form.AvaliacaoFisicaForm;
 import me.dio.academia.digital.entity.form.AvaliacaoFisicaUpdateForm;
 
@@ -9,6 +10,7 @@ import java.util.List;
 public interface IAvaliacaoFisicaService {
   /**
    * Cria uma Avaliação Física e salva no banco de dados.
+   *
    * @param form - formulário referente aos dados para criação da Avaliação Física no banco de dados.
    * @return - Avaliação Física recém-criada.
    */
@@ -23,9 +25,10 @@ public interface IAvaliacaoFisicaService {
 
   /**
    * Retorna todas as Avaliações Física que estão no banco de dados.
+   *
    * @return - Uma lista com todas as Avaliações Física que estão salvas no DB.
    */
-  List<AvaliacaoFisica> getAll();
+  List<Matricula> getAll();
 
   /**
    * Atualiza a avaliação física.
