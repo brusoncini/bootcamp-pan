@@ -2,7 +2,7 @@
 
 <h2>🎯 Objetivo do Projeto</h2>
 <p>Feito durante o curso de Spring Data e JPA na Prática da DIO, para conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica. 
-<br>Informações do README com base nas disponibilizadas por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").</p>
+<br>Informações do README com base nas disponibilizadas por [cami-la](https://www.linkedin.com/in/cami-la).</p>
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
