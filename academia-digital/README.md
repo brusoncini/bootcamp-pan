@@ -1,7 +1,8 @@
 <h1>Projeto Spring Data JPA na Prática </h1>
 
 <h2>🎯 Objetivo do Projeto</h2>
-<p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica. Disponibilizado por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").</p>
+<p>Feito durante o curso de Spring Data e JPA na Prática da DIO, para conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica. 
+<br>Informações do README com base nas disponibilizadas por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").</p>
 
 <h2>🛠 Tecnologias Utilizadas</h2>
 
